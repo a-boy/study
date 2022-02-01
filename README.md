@@ -1,4 +1,6 @@
 ## 学习笔记
+- [数论探索](数论探索.html)
+- [精美歌词](精美歌词.html)
 
 ## Welcome to GitHub Pages
 
